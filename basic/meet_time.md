@@ -1,12 +1,13 @@
 # meet_time
 ## Statement
-gopi has set his no-screen sessions*, which is strictly adhered to.write a program to check whether he was in no-screen session or not at a given particular time.
+gopi has set his no-screen sessions*, which is strictly adhered to.His friend contacted him to know whether he was comfortable to meet him in a vedio call.write a program to check whether the meeting is possible or not for time proposed T by his friend so that, the meet won't clash with his no-screen time. Meet is expected to last one hour.
 
-gopi has **N** no-screen sessions.
+gopi has N no-screen sessions.
 
 No-screen sessions will be inputed as "START-TIME" "END-TIME".(24-hour format)
 
-Assume all no-screen sessions will be occuring in only one day(no day change is observed during these sessions)
+Assume all no-screen sessions and meet will be occuring in only one day(no day change is observed during these sessions)
+**Note**: (he will be able to see the screen at extremes of no-screen time sessions).
 ## Input
 * input's first line has no.of no-screen sessions N.
 * following N lines contains time of that sessions "START-TIME"-"END-TIME"(24-hour format)
