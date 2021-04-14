@@ -7,7 +7,9 @@ gopi has N no-screen sessions.
 No-screen sessions will be inputed as "START-TIME" "END-TIME".(24-hour format)
 
 Assume all no-screen sessions and meet will be occuring in only one day(no day change is observed during these sessions)
+
 **Note**: (he will be able to see the screen at extremes of no-screen time sessions).
+
 ## Input
 * input's first line has no.of no-screen sessions N.
 * following N lines contains time of that sessions "START-TIME"-"END-TIME"(24-hour format)
