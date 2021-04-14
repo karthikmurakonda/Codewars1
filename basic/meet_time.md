@@ -13,7 +13,7 @@ Assume all no-screen sessions and meet will be occuring in only one day(no day c
 * following N lines contains time of that sessions "START-TIME"-"END-TIME"(24-hour format)
 * Last line contains Time **T** at which we have to find gopi is in no-screen time or not.
 ## output
-print "Yes" if he able to attend the meet otherwise "No"
+print "Yes" if they are in no-screen session otherwise "No"
 ## Constraints 
 * 1 <= N <= 100
 ## Sample input 
