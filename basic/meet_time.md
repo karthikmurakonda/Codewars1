@@ -26,7 +26,7 @@ print "Yes" if they are in no-screen session otherwise "No"
 ```
 ## Sample output
 ```
-Yes
+No
 ```
 ## Explanation
 * he will be in the second no-screen session 13:45 to 14:55 where 14:30 is there in between.
